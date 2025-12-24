@@ -1,2 +1,36 @@
-# pizza-sales-analysis-excel
-This project presents an in-depth analysis of pizza sales data using Microsoft Excel, aimed at uncovering sales trends, customer preferences, and product performance. The objective of this analysis is to help a food business understand what drives revenue, which products perform best, and how sales vary across time and categories.
+# 🍕 Pizza Sales Analysis (Excel Dashboard)
+
+## 📌 Project Overview
+This project analyzes pizza sales data to understand revenue trends, customer behavior, best-selling products, and peak order timings using Excel.
+
+## 🎯 Objectives
+- Analyze total revenue and average order value
+- Identify busiest days and peak order hours
+- Find top 5 best-selling and worst-selling pizzas
+- Analyze sales by pizza category and size
+- Track daily and monthly sales trends
+
+## 🛠 Tools Used
+- Microsoft Excel
+- Pivot Tables
+- Pivot Charts
+- Slicers
+- Dashboard Design
+
+## 📊 Key Insights
+- Total Revenue: $274,087
+- Average Order Value: $38.23
+- Orders peak on weekends (Friday & Saturday evenings)
+- Highest orders between 12–1 PM and 5–8 PM
+- Classic and Chicken pizzas dominate sales
+- Large size pizzas contribute the highest revenue
+
+## 📁 Files
+- Pizza Sales Dashboard (Excel)
+- Dataset shared via OneDrive
+
+🔗 **Excel File Link**  
+https://1drv.ms/x/c/729DCF996ED4F68F/IQDIXbk9Dsi8RYDDpxRjzMt6ARaVOuWWOsKMKKiwtIwmg7E
+
+## 👤 Author
+Rishabh
