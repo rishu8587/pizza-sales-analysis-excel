@@ -32,7 +32,7 @@ This project analyzes pizza sales data to understand revenue trends, customer be
 🔗 **Excel File Link**  
 https://1drv.ms/x/c/729DCF996ED4F68F/IQDIXbk9Dsi8RYDDpxRjzMt6ARaVOuWWOsKMKKiwtIwmg7E
 
-![image alt](https://github.com/rishu8587/pizza-sales-analysis-excel/blob/4932b97c458cd1f1a633863ea6903f50c78a9697/Pizza%20sales%20insights%202.pdf)
+![pdf alt](https://github.com/rishu8587/pizza-sales-analysis-excel/blob/4932b97c458cd1f1a633863ea6903f50c78a9697/Pizza%20sales%20insights%202.pdf)
 
 ## 👤 Author
 Rishabh
